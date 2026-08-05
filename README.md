@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* 🔭 I’m currently working on Digital attendance system at CHAMPS-SL
+* 🔭 I’m currently working on ..............
 * 🌱 I’m currently learning advanced cybersecurity and data analytics
 * 👯 I’m looking to collaborate on open-source Python and Django projects
 * 🤔 I’m looking for help with building scalable web apps and APIs
